@@ -21,5 +21,4 @@ Re-References
 Po-Pointers
 Fu-Functions
 Au-Auto
-Sm
-Smart Pointers
+Sm-Smart Pointers
